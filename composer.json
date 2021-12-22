@@ -1,0 +1,15 @@
+{
+    "name": "bhargav/git-from-scratch",
+    "authors": [
+        {
+            "name": "Bhargav",
+            "email": "bhargav.nanekalva@mpokket.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Calculator\\": "src/"
+        }
+    },
+    "require": {}
+}
